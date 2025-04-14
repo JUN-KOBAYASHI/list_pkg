@@ -1,16 +1,16 @@
 # list_pkg
 
-A new Flutter project.
+## Description
 
-## Getting Started
+This tool is designed for Android OS to:
+* List installed applications.
+* List uninstalled applications.
+* Open the Google Play Store site.
 
-This project is a starting point for a Flutter application.
+## Testing Environment
 
-A few resources to get you started if this is your first Flutter project:
+Tested on Pixel 9 Pro / Android 15.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Disclaimer
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This tool is provided as-is, with no warranty. Use at your own risk.
